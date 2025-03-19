@@ -22,7 +22,7 @@ class ZangeresModel
 
                 FROM Zangeres as ZANG
                 
-                ORDER BY ZANG.Naam DESC';
+                ORDER BY ZANG.Nettowaarde DESC';
 
         $this->db->query($sql);
 

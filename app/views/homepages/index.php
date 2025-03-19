@@ -13,8 +13,11 @@
             <a href="<?= URLROOT; ?>/smartphones/index">Overzicht smartphones</a> |
             <a href="<?= URLROOT; ?>/sneakers/index">Mooiste sneakers</a> | 
             <a href="<?= URLROOT; ?>/horloges/index">Duurste Horloges</a> | 
+            <a href="<?= URLROOT; ?>/torens/index">Hoogste Torens</a>     |
+            <a href="<?= URLROOT; ?>/speakers/index">Beste Speakers</a>     |
             <a href="<?= URLROOT; ?>/zangeres/index">Beste Zangeressen</a> |
             
+
 
         </div>
         
